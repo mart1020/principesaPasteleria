@@ -1,12 +1,9 @@
-# React + Vite
+## 🎂 PASTELERIA PRINCIPESSA 🎂
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto creado para un pequeño emprendedor, que buscaba mostrar sus trabajos y que se comunicaran con ellos para el pago fisico de sus servicios. Si bien se sugirio implementar el pago online, el cliente se sentia mas comodo con el envio del pedido por medio de whatsapp a su número personal.
+El proyecto esta realizado con React y vite, en base de Javascript para el moviemiento de los productos.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Espero que le haya gustado el proyecto! ai tiene alguna sugerencia o pedido me puede contactar
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
